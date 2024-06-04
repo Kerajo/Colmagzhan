@@ -1,0 +1,15 @@
+{ idCategory: 1, textCategory: 'Работа цикловых методических комиссий' },
+  {
+    idCategory: 2,
+    textCategory: 'Нормативно-правовое и учебно-методическое обеспечение образовательного процесса'
+  },
+  { idCategory: 3, textCategory: 'Научно-исследовательская деятельность' },
+  { idCategory: 4, textCategory: 'Школа молодого педагога' },
+  { idCategory: 5, textCategory: 'Профессиональные достижения преподавателей' },
+  { idCategory: 6, textCategory: 'Повышение профессиональной компетентности пед. кадров' },
+  { idCategory: 7, textCategory: 'Методическая копилка' },
+  { idCategory: 8, textCategory: 'Экспертная деятельность' },
+  { idCategory: 9, textCategory: 'Конкурсы, Олимпиады и Экспертная деятельность' },
+  { idCategory: 10, textCategory: 'Педагогический и методический советы' },
+  { idCategory: 11, textCategory: 'Организация методической работы' },
+  { idCategory: 12, textCategory: 'Издательская деятельность' }

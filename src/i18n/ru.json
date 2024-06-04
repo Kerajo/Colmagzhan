@@ -1,0 +1,92 @@
+{
+  "header": {
+    "title": "Высший колледж им.Магжана Жумабаева",
+    "placeholder": "Найти в методичке",
+    "button": "Войти",
+    "profile-block__dropdown-item-setting": "Настройки",
+    "profile-block__dropdown-item-logout": "Выход"
+  },
+  "hero": {
+    "hero__title1/2": "Онлайн —",
+    "hero__title-span": "Методичка",
+    "hero__title2/2": "Высшего колледжа им.Магжана Жумабаева",
+    "hero__description": "Подготовка профессиональных кадров и их конкурентоспособность на рынке образовательных услуг",
+    "hero__button-auth": "Войти",
+    "hero__button-about": "О колледже",
+    "categories__title": "Список методичек",
+    "college-info__title-college": "Высший колледж имени Магжана Жумабаева",
+    "college-info__director-name": "Жандильдин Ерлик Борисович",
+    "college-info__director-post": "Директор колледжа",
+    "college-info__description-span": "Высший колледж имени Магжана Жумабаева",
+    "college-info__description": "– одно из старейших учебных заведений нашей республики, динамично развивающееся, ориентированное на новейшие образовательные технологии, со значительной научной-методической базой, современными материально-техническими ресурсами, высококвалифицированным кадровым потенциалом, богатым духовным и научным наследием.",
+    "college-info__button": "О колледже",
+    "college-info__title-contact": "Контакты",
+    "college-info__contact-text-tel": "+7 (7152) 36-91-36",
+    "college-info__contact-text-address": "г. Петропавловск, ул. Абая, 28",
+    "college-info__contact-text-mail": "Colmagzhan@mail.ru"
+  },
+  "footer": {
+    "footer__logo-description": "Высший колледж им.Магжана Жумабаева",
+    "footer__college-button": "Сайт колледжа",
+    "footer__title-social": "Соц. сети",
+    "footer__title-info": "Информация",
+    "footer__link-account": "Личный кабинет",
+    "footer__link-certification": "Аттестация 2023",
+    "footer__link-timing": "Расписание",
+    "footer__link-news": "Новости",
+    "footer__link-about": "О колледже",
+    "footer__link-worker": "Преподавателю и сотруднику",
+    "footer__link-college": "Сайт колледжа",
+    "footer_title-contact": "Контакты",
+    "college-info__contact-text-tel": "+7 (7152) 36-91-36",
+    "college-info__contact-text-address": "г. Петропавловск, ул. Абая, 28",
+    "college-info__contact-text-mail": "Colmagzhan@mail.ru",
+    "footer__copyright": "© 2024. Высший колледж им.Магжана Жумабаева. Все права защищены."
+  },
+  "CFView": {
+    "title-search": "Поиск",
+    "placeholder-search": "Поиск в методичке",
+    "title-categories": "Категории",
+    "detalis-category": "Категория:",
+    "detalis-date": "Дата:",
+    "detalis-formate": "Формат:",
+    "detalis-size": "Размер:",
+    "button-download": "Скачать",
+    "button-view": "Cмотреть онлайн"
+  },
+  "auth": {
+    "auth-title": "Авторизация",
+    "auth-description": "Войдите в аккаунт, чтобы получить доступ к методичке",
+    "input-login": "Логин",
+    "input-password": "Пароль",
+    "auth-button": "Войти",
+    "error-message": "Неправильно указан логин и/или пароль",
+    "forgot-password": "В случае утери пароля, пожалуйста, обратитесь к руководителю"
+  },
+  "block": {
+    "block-title": "Упс... Похоже, у вас нет доступа!",
+    "block-subtitle": "Для просмотра информации в методичке необходимо войти в аккаунт",
+    "button-auth": "Войти",
+    "button-home": "На главную"
+  },
+  "search": {
+    "subtitle": "Результаты поиска:",
+    "title": "Найдено:",
+    "title-not-found": "По вашему запросу ничего не найдено",
+    "one-file": "файл",
+    "to-four-files": "файла",
+    "more-four-files": "файлов",
+    "button-home": "На главную",
+    "button-categories": "К методичке"
+  },
+  "404": {
+    "error-description": "ЧТО-ТО ПОШЛО НЕ ТАК",
+    "button-home": "На главную",
+    "button-categories": "К методичке"
+  },
+  "notification": {
+    "loading": "Загрузка...",
+    "error": "#502 ERROR",
+    "nothing": "Нет файлов"
+  }
+}

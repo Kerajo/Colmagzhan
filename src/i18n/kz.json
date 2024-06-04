@@ -1,0 +1,92 @@
+{
+  "header": {
+    "title": "Мағжан Жұмабаев атындағы Жоғары колледж",
+    "placeholder": "Іздеу",
+    "button": "Кіру",
+    "profile-block__dropdown-item-setting": "Параметрлер",
+    "profile-block__dropdown-item-logout": "Шығу"
+  },
+  "hero": {
+    "hero__title1/2": "Онлайн —",
+    "hero__title-span": "Әдістемелік",
+    "hero__title2/2": "Мағжан Жұмабаев атындағы Жоғары колледждің",
+    "hero__description": "Кәсіби кадрларды даярлау және олардың білім беру қызметтері нарығында бәсекеге қабілеттілігі",
+    "hero__button-auth": "Кіру",
+    "hero__button-about": "Колледж туралы",
+    "categories__title": "Әдістемелік құралдар тізімі",
+    "college-info__title-college": "Мағжан Жұмабаев атындағы Жоғары колледж",
+    "college-info__director-name": "Жанділдин Ерлік Борисұлы",
+    "college-info__director-post": "Колледж директоры",
+    "college-info__description-span": "Мағжан Жұмабаев атындағы Жоғары колледж",
+    "college-info__description": "– біздің республикамыздағы ең көне оқу орындарының бірі, қарқынды дамып келе жатқан, жаңа білім беру технологияларына бағдарланған, айтарлықтай ғылыми-әдістемелік базасы, заманауи материалдық-техникалық ресурстары, жоғары білікті кадрлық әлеуеті, рухани және ғылыми мұрасына бай.",
+    "college-info__button": "Колледж туралы",
+    "college-info__title-contact": "Байланыс",
+    "college-info__contact-text-tel": "+7 (7152) 36-91-36",
+    "college-info__contact-text-address": "қ. Петропавловск, к. Абай, 28",
+    "college-info__contact-text-mail": "Colmagzhan@mail.ru"
+  },
+  "footer": {
+    "footer__logo-description": "Мағжан Жұмабаев атындағы Жоғары колледж",
+    "footer__college-button": "Колледж сайты",
+    "footer__title-social": "Әлеуметтік желілер",
+    "footer__title-info": "Ақпарат",
+    "footer__link-account": "Жеке кабинет",
+    "footer__link-certification": "Аттестаттау 2023",
+    "footer__link-timing": "Кесте",
+    "footer__link-news": "Новости",
+    "footer__link-about": "Жаңалықтар",
+    "footer__link-worker": "Оқытушы мен қызметкерге",
+    "footer__link-college": "Колледж сайты",
+    "footer_title-contact": "Байланыс",
+    "college-info__contact-text-tel": "+7 (7152) 36-91-36",
+    "college-info__contact-text-address": "қ. Петропавловск, к. Абай, 28",
+    "college-info__contact-text-mail": "Colmagzhan@mail.ru",
+    "footer__copyright": "© 2024. Мағжан Жұмабаев атындағы Жоғары колледж. Барлық құқықтар қорғалған."
+  },
+  "CFView": {
+    "title-search": "Іздеу",
+    "placeholder-search": "Іздеу",
+    "title-categories": "Санаттар",
+    "detalis-category": "Санат:",
+    "detalis-date": "Күні:",
+    "detalis-formate": "Формат:",
+    "detalis-size": "Өлшемі:",
+    "button-download": "Жүктеу",
+    "button-view": "Интернеттен қараңыз"
+  },
+  "auth": {
+    "auth-title": "Авторизация",
+    "auth-description": "Оқу құралына кіру үшін тіркелгіге кіріңіз",
+    "input-login": "Логин",
+    "input-password": "Жасырын сөз",
+    "auth-button": "Кіру",
+    "error-message": "Логин және / немесе Жасырын сөз дұрыс көрсетілмеген",
+    "forgot-password": "Жасырын сөз жоғалған жағдайда басшыға хабарласыңыз"
+  },
+  "block": {
+    "block-title": "Ой... Сізде қол жетімділік жоқ сияқты!",
+    "block-subtitle": "Оқу құралындағы ақпаратты көру үшін тіркелгіге кіру керек",
+    "button-auth": "Кіру",
+    "button-home": "Басты бетке"
+  },
+  "search": {
+    "subtitle": "Іздеу нәтижелері:",
+    "title": "Табылды:",
+    "title-not-found": "Сіздің сұранысыңыз бойынша ештеңе табылған жоқ",
+    "one-file": "файл",
+    "to-four-files": "файл",
+    "more-four-files": "файл",
+    "button-home": "Басты бетке",
+    "button-categories": "Әдістемеге"
+  },
+  "404": {
+    "error-description": "БІРДЕҢЕ ДҰРЫС БОЛМАДЫ",
+    "button-home": "Басты бетке",
+    "button-categories": "Әдістемеге"
+  },
+  "notification": {
+    "loading": "Жүктеу...",
+    "error": "#502 ERROR",
+    "nothing": "Файлдар жоқ"
+  }
+}

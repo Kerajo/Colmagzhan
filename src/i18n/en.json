@@ -1,0 +1,92 @@
+{
+  "header": {
+    "title": "Magzhan Zhumabayev Higher College",
+    "placeholder": "Find in",
+    "button": "login",
+    "profile-block__dropdown-item-setting": "Settings",
+    "profile-block__dropdown-item-logout": "Exit"
+  },
+  "hero": {
+    "hero__title1/2": "Online —",
+    "hero__title-span": "teaching methods",
+    "hero__title2/2": "of the Magzhan Zhumabayev Higher College",
+    "hero__description": "Training of professional personnel and their competitiveness in the educational services market",
+    "hero__button-auth": "Enter",
+    "hero__button-about": "About the college",
+    "categories__title": "List of teaching methods",
+    "college-info__title-college": "Magzhan Zhumabayev Higher College",
+    "college-info__director-name": "Zhandildin Yerlik Borisovich",
+    "college-info__director-post": "The director of the college",
+    "college-info__description-span": "Magzhan Zhumabayev Higher College",
+    "college-info__description": " – one of the oldest educational institutions in our republic, dynamically developing, focused on the latest educational technologies, with a significant scientific and methodological base, modern material and technical resources, highly qualified personnel potential, rich spiritual and scientific heritage.",
+    "college-info__button": "About the college",
+    "college-info__title-contact": "Contacts",
+    "college-info__contact-text-tel": "+7 (7152) 36-91-36",
+    "college-info__contact-text-address": "Petropavlovsk, Abaya str., 28",
+    "college-info__contact-text-mail": "Colmagzhan@mail.ru"
+  },
+  "footer": {
+    "footer__logo-description": "Magzhan Zhumabayev Higher College",
+    "footer__college-button": "College Website",
+    "footer__title-social": "Social",
+    "footer__title-info": "Information",
+    "footer__link-account": "Personal account",
+    "footer__link-certification": "Certification 2023",
+    "footer__link-timing": "Schedule",
+    "footer__link-news": "News",
+    "footer__link-about": "About the college",
+    "footer__link-worker": "To the teacher and the employee",
+    "footer__link-college": "College Website",
+    "footer_title-contact": "Contacts",
+    "college-info__contact-text-tel": "+7 (7152) 36-91-36",
+    "college-info__contact-text-address": "Petropavlovsk, Abaya str., 28",
+    "college-info__contact-text-mail": "Colmagzhan@mail.ru",
+    "footer__copyright": "© 2024. Magzhan Zhumabayev Higher College. All rights reserved."
+  },
+  "CFView": {
+    "title-search": "Find",
+    "placeholder-search": "Find in",
+    "title-categories": "Categories",
+    "detalis-category": "Category:",
+    "detalis-date": "Date:",
+    "detalis-formate": "Format:",
+    "detalis-size": "Size:",
+    "button-download": "Download",
+    "button-view": "Watch Online"
+  },
+  "auth": {
+    "auth-title": "Authorization",
+    "auth-description": "Log in to your account to access the training manual",
+    "input-login": "Username",
+    "input-password": "Password",
+    "auth-button": "login",
+    "error-message": "The username and/or password is incorrect",
+    "forgot-password": "If you lose your password, please contact your supervisor"
+  },
+  "block": {
+    "block-title": "Oops... It looks like you don't have access!",
+    "block-subtitle": "To view the information in the training manual, you need to log in to your account",
+    "button-auth": "Login",
+    "button-home": "Home"
+  },
+  "search": {
+    "subtitle": "Search Results:",
+    "title": "Found:",
+    "title-not-found": "Nothing was found for your query",
+    "one-file": "file",
+    "to-four-files": "files",
+    "more-four-files": "files",
+    "button-home": "home",
+    "button-categories": "To training manual"
+  },
+  "404": {
+    "error-description": "SOMETHING WENT WRONG",
+    "button-home": "Home",
+    "button-categories": "Training manual"
+  },
+  "notification": {
+    "loading": "Loading...",
+    "error": "#502 ERROR",
+    "nothing": "There are no files"
+  }
+}
