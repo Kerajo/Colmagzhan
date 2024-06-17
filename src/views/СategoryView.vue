@@ -46,7 +46,7 @@ const hasErrorContentCategory = ref(false);
 const filterContentCategory = async (idCategory) => {
   isLoadingContentCategory.value = true;
   try {
-    const response = await axios.get(`http://api.kerajo.online/storage?idCategory=${idCategory}`);
+    const response = await axios.get(`http://127.0.0.1:5000/storage?idCategory=${idCategory}`);
     currentItems.value = response.data.children;
     console.log('Current Items Loaded:', currentItems.value);
   } catch (error) {
