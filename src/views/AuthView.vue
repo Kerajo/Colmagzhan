@@ -22,7 +22,7 @@ const submit = async () => {
   console.log('authorization');
 
   try {
-    const response = await axios.post('http://api.kerajo.online/login', authorization, {
+    const response = await axios.post('http://127.0.0.1:5000/login', authorization, {
       headers: {
         Accept: 'application/json',
         'Content-Type': 'application/json'

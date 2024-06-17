@@ -60,7 +60,7 @@ const filterContentFile = async (routeQueryId) => {
   isLoadingContentFile.value = true;
 
   try {
-    const response = await axios.get(`http://api.kerajo.online/storage`);
+    const response = await axios.get(`http://127.0.0.1:5000/storage`);
     const items = response.data;
     currentItems.value = [];
     findItemsById(items, queryId); // Используем функцию поиска для полученных данных
