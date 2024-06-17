@@ -27,7 +27,7 @@ const hasErrorFetchData = ref(false);
 const fetchData = async () => {
   isLoadingFetchData.value = true;
   try {
-    const response = await axios.get('http://127.0.0.1:5000/categories');
+    const response = await axios.get('http://api.kerajo.online/categories');
     categories.value = response.data;
   } catch (error) {
     console.error('Ошибка при загрузке категорий:', error);
