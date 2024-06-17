@@ -30,7 +30,7 @@ const hasErrorFetchData = ref(false);
 const fetchData = async () => {
   isLoadingFetchData.value = true;
   try {
-    const response = await axios.get('http://127.0.0.1:5000/categories');
+    const response = await axios.get('http://api.kerajo.online/categories');
     categories.value = response.data;
   } catch (error) {
     console.error('Ошибка при загрузке категорий:', error);
@@ -46,7 +46,7 @@ const hasErrorContentCategory = ref(false);
 const filterContentCategory = async (idCategory) => {
   isLoadingContentCategory.value = true;
   try {
-    const response = await axios.get(`http://127.0.0.1:5000/storage?idCategory=${idCategory}`);
+    const response = await axios.get(`http://api.kerajo.online/storage?idCategory=${idCategory}`);
     currentItems.value = response.data.children;
     console.log('Current Items Loaded:', currentItems.value);
   } catch (error) {

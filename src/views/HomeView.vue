@@ -19,7 +19,7 @@ const hasErrorFetchData = ref(false);
 const fetchData = async () => {
   isLoadingFetchData.value = true;
   try {
-    const response = await axios.get('http://127.0.0.1:5000/categories');
+    const response = await axios.get('http://api.kerajo.online/categories');
     console.log('fffsdfs:', response.data);
     // Записываем полученные данные в переменную
     categories.value = response.data;

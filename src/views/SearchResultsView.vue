@@ -52,7 +52,7 @@ const recursiveSearch = (items, query, fuseOptions, accumulatedResults = []) => 
 const fetchAndSearch = async (query) => {
   isLoadingContentFile.value = true;
   try {
-    const response = await axios.get('http://127.0.0.1:5000/storage');
+    const response = await axios.get('http://api.kerajo.online/storage');
     const allMatches = recursiveSearch(response.data, query, options);
     // Сортируем результаты по score
     allMatches.sort((a, b) => a.score - b.score);
