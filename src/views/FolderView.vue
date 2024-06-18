@@ -58,7 +58,7 @@ const filterContentCategory = async (routeQueryId) => {
   const queryId = parseInt(routeQueryId, 10); // Получаем id из строки запроса и преобразуем в число
 
   try {
-    const response = await axios.get(`http://185.129.50.76/storage`);
+    const response = await axios.get(`http://api.kerajo.online/storage`);
     const items = response.data;
     currentItems.value = [];
     findItemsById(items, queryId); // Используем функцию поиска для полученных данных
